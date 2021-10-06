@@ -28,8 +28,8 @@ git config --global credential.github.com.useHttpPath true
 
 
 ##### Students you can download course material from this github link ###
-https://github.com/anirudhagaikwad/Python_Seed
-https://github.com/anirudhagaikwad/Python_Seed.git
+https://github.com/anirudhagaikwad/Java_Seed
+https://github.com/anirudhagaikwad/Java_Seed.git
 	
 
 
